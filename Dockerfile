@@ -1,6 +1,6 @@
 FROM node:carbon-alpine
 
-MAINTAINER TheFreeElf
+LABEL MAINTAINER=TheFreeElf
 
 # Using platten/alpine-oracle-jre8-docker to put java on top of the official node 6 apline image
 
